@@ -3,30 +3,30 @@
 // JANGAN DIHAPUS KALAU MAU DITAMBAHIN
 
 // NUMBER
-global.owner = ['6281251549899'] 
+global.owner = ['6285730794089'] 
 global.mods = [] 
 global.prems = [] 
-global.kontak = ['6281251549899']
+global.kontak = ['6285730794089']
 
 //  INFO BOT 
-global.naown = 'DANIXD'
-global.noown = '6281251549899'
-global.namebot = 'FORYN FOUR'
-global.nobot = '6281352848936'
+global.naown = 'Gilzz x Code'
+global.noown = '6285730794089'
+global.namebot = 'Gilzz Code'
+global.nobot = '6281357580863'
 
 //  URL SOSMED
-global.instagram = 'https://instagram.com/danibotz_official'
-global.github = 'https://github.com/YTDANIBOTZ'
-global.gc = 'https://chat.whatsapp.com/HVyRaNWp18NKMAIHv8NjLP'
-global.web = 'https://lynk.id/kri.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.saweria = 'https://saweria.co/Kricom'
+global.instagram = 'https://instagram.com/rdtyzagilz'
+global.github = 'https://github.com/gilzzbotz'
+global.gc = 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy'
+global.web = 'https://linktr.ee/gilzzbotz' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.saweria = 'https://saweria.co/gilzzbotz'
 
 // PAYMANT 
-global.dana = '081251549899'
-global.pulsa = '081251549899'
-global.gopay = '081348106274'
-global.shopay = '081352848946'
-global.ovo = '081352848936'
+global.dana = '081241056195'
+global.pulsa = '085730794089'
+global.gopay = '085730794089'
+global.saweria = 'https://saweria.co/gilzzbotz'
+global.ovo = '-'
 
 // PROFILE ALL 
 global.ppreg = 'https://telegra.ph/file/445721f7cdab701543840.jpg'
@@ -54,10 +54,10 @@ global.fsizedoc = '99999999999999' // default 10TB
 global.fpagedoc = '999'
 
 // WATERMARK  
-global.wm = 'ᬊᬁ 𝐅𝐎𝐑𝐘𝐍 𝐅𝐎𝐔𝐑'
+global.wm = 'ᬊᬁ Gilzz x Code'
 global.watermark = wm
-global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 𝙆𝙧𝙞𝙯𝙮𝙣𝙊𝙛𝙘'
-global.wm3 = '⫹⫺ 𝐅𝐎𝐑𝐘𝐍 𝐅𝐎𝐔𝐑 | BOT WHATSAPP MD'
+global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 GilzzOfc'
+global.wm3 = '⫹⫺ Gilzz Code | BOT WHATSAPP MD'
 global.tb = 'WHATSAPP BOT MULTI DEVICE'
 
 //  DEFAULT MENU  
@@ -87,7 +87,7 @@ global.admen = `┏═┅〔 *SUPPORT* 〕┅═✦
 ┃⫹⫺ Jarot
 ┃⫹⫺ Kanna
 ┃⫹⫺ Fokusid
-┃
+┃⫹⫺ Gilzz 
 ┗━━══┅┅══━━━✦`
         
 // HIASAN MENU LAINNYA 
@@ -104,8 +104,8 @@ global.salah = 'Salah ❌\n'
 
 // WATERMARK STICKER 
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'FORYN FOUR'
-global.author = 'By DaniXd'
+global.packname = 'Gilz Code'
+global.author = 'By GilzzOfc'
 
 //  APIKEY ANDA 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
