@@ -13,7 +13,7 @@ https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy`
 github.com/gilzzbotz
 
 📮 JANGAN LUPA MAMPIR :
-https://lynk.id/gilzzx`
+'https://lynk.id/gilzzx'
 
 *NB:SC DI DESK GROUP!*
 
