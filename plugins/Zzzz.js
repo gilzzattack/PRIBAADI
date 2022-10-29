@@ -9,8 +9,8 @@ let esce = `Hello kak ${ye} Lagi Nyari Sc Ya?
 📮 GROUP OFFICIAL :
 https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy`
 
-📮 GROUP OFFICIAL :
-https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy`
+📮 GITHUB :
+github.com/gilzzbotz
 
 📮 JANGAN LUPA MAMPIR :
 https://lynk.id/gilzzx`
