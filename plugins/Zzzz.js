@@ -7,13 +7,13 @@ let esce = `Hello kak ${ye} Lagi Nyari Sc Ya?
 *CARI SC YA DEK?*
 
 📮 GROUP OFFICIAL :
-https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy
+https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy`
 
 📮 GROUP OFFICIAL :
-https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy
+https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy`
 
 📮 JANGAN LUPA MAMPIR :
-https://lynk.id/gilzzx
+https://lynk.id/gilzzx`
 
 *NB:SC DI DESK GROUP!*
 
