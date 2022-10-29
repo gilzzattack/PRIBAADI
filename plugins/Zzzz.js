@@ -7,10 +7,10 @@ let esce = `Hello kak ${ye} Lagi Nyari Sc Ya?
 *CARI SC YA DEK?*
 
 📮 GROUP OFFICIAL :
-https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy`
+'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy'
 
 📮 GITHUB :
-github.com/gilzzbotz
+'github.com/gilzzbotz'
 
 📮 JANGAN LUPA MAMPIR :
 'https://lynk.id/gilzzx'
